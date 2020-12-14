@@ -19,9 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0dcce546-4a91-4425-8d18-d41aeac3279e" name="Default Changelist" comment="启动AC">
-      <change beforePath="$PROJECT_DIR$/.github/workflows/fenxiang.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/fenxiang.yml" afterDir="false" />
+    <list default="true" id="0dcce546-4a91-4425-8d18-d41aeac3279e" name="Default Changelist" comment="更新FENGCOOKIE">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendNotify.js" beforeDir="false" afterPath="$PROJECT_DIR$/sendNotify.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +75,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1607943224564</updated>
-      <workItem from="1607943225648" duration="2107000" />
+      <workItem from="1607943225648" duration="2909000" />
     </task>
     <task id="LOCAL-00001" summary="启动AC">
       <created>1607944190201</created>
@@ -91,7 +91,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607944890087</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="更新FENGCOOKIE">
+      <created>1607945359419</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1607945359419</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,7 +117,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="启动AC" />
-    <option name="LAST_COMMIT_MESSAGE" value="启动AC" />
+    <MESSAGE value="更新FENGCOOKIE" />
+    <option name="LAST_COMMIT_MESSAGE" value="更新FENGCOOKIE" />
   </component>
   <component name="WindowStateProjectService">
     <state width="1899" height="285" key="GridCell.Tab.0.bottom" timestamp="1607944213543">
@@ -129,9 +137,9 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1899" height="285" key="GridCell.Tab.0.right/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1607944213542" />
-    <state x="552" y="257" key="Vcs.Push.Dialog.v2" timestamp="1607944993451">
+    <state x="552" y="257" key="Vcs.Push.Dialog.v2" timestamp="1607945370519">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="552" y="257" key="Vcs.Push.Dialog.v2/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1607944993451" />
+    <state x="552" y="257" key="Vcs.Push.Dialog.v2/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1607945370519" />
   </component>
 </project>

@@ -4,7 +4,7 @@ const $ = new Env();
 let SCKEY = '';
 
 //此处填你BarkAPP的信息(IP/设备码，例如：https://api.day.app/XXXXXXXX).注：github action用户SCKEY填写到Settings-Secrets里面（Name输入BARK_PUSH）
-let BARK_PUSH = 'https://api.day.app/UNV65r6XwsEwKiyXgAV2B7';
+let BARK_PUSH = '';
 // let BARK_PUSH = '';
 
 //此处填你telegram bot 的Token，例如：1077xxx4424:AAFjv0FcqxxxxxxgEMGfi22B4yh15R5uw

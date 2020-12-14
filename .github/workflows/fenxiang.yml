@@ -27,4 +27,4 @@ jobs:
         run: |
           node fenxiang.js
         env:
-          Fen_COOKIE: ${{ secrets.FENGCOOKIE }}
+          FENGCOOKIE: ${{ secrets.FENGCOOKIE }}

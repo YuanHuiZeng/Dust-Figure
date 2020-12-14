@@ -19,9 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0dcce546-4a91-4425-8d18-d41aeac3279e" name="Default Changelist" comment="更新FENGCOOKIE">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sendNotify.js" beforeDir="false" afterPath="$PROJECT_DIR$/sendNotify.js" afterDir="false" />
+    <list default="true" id="0dcce546-4a91-4425-8d18-d41aeac3279e" name="Default Changelist" comment="增加通知">
+      <change beforePath="$PROJECT_DIR$/.github/workflows/fenxiang.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/fenxiang.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +74,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1607943224564</updated>
-      <workItem from="1607943225648" duration="2909000" />
+      <workItem from="1607943225648" duration="3249000" />
     </task>
     <task id="LOCAL-00001" summary="启动AC">
       <created>1607944190201</created>
@@ -98,7 +97,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607945359419</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="增加通知">
+      <created>1607946148932</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1607946148932</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -118,7 +124,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="启动AC" />
     <MESSAGE value="更新FENGCOOKIE" />
-    <option name="LAST_COMMIT_MESSAGE" value="更新FENGCOOKIE" />
+    <MESSAGE value="增加通知" />
+    <option name="LAST_COMMIT_MESSAGE" value="增加通知" />
   </component>
   <component name="WindowStateProjectService">
     <state width="1899" height="285" key="GridCell.Tab.0.bottom" timestamp="1607944213543">

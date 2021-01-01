@@ -29,3 +29,4 @@ jobs:
         env:
           COW_LOGIN_STRING: ${{ secrets.COW_LOGIN_STRING }}
           COW: ${{ secrets.COW }}
+          BARK_PUSH: ${{ secrets.BARK_PUSH }}

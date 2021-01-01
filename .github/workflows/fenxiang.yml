@@ -28,3 +28,4 @@ jobs:
           node fenxiang.js
         env:
           FENGCOOKIE: ${{ secrets.FENGCOOKIE }}
+          BARK_PUSH: ${{ secrets.BARK_PUSH }}

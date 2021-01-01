@@ -58,7 +58,7 @@ let friendList = [];
         // await checkFeeds();
         // await visitFriend();
         await feedFriend();
-        if ($.time("HH") == 7 || $.time("HH") == 8){
+        if ($.time("HH") == 1 || $.time("HH") == 2){
             sign_in();
             await getTaskList();
             await sleep(5)
@@ -66,9 +66,9 @@ let friendList = [];
             await sleep(5);
             await taskAward();
         }
-        /* if (feedsNum >=20){
+         if (feedsNum >=20 && i === 0){
              await toFeed()
-         }*/
+         }
     }
 
 
@@ -258,7 +258,7 @@ function refresh(){
         }
         needle.get(url,async function (error,res,body){
             // console.log(body);
-            await notify.BarkNotify(`刷新成功`, `媳妇的大号`);
+            // await notify.BarkNotify(`刷新成功`, `媳妇的大号`);
             resolve()
         })
     })

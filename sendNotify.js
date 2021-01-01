@@ -18,10 +18,8 @@ if (process.env.PUSH_KEY) {
 if (process.env.BARK_PUSH) {
   if(process.env.BARK_PUSH.indexOf('https') > -1 || process.env.BARK_PUSH.indexOf('http') > -1) {
     BARK_PUSH = process.env.BARK_PUSH
-    console.log(121212,BARK_PUSH);
   } else {
     BARK_PUSH = `https://api.day.app/${process.env.BARK_PUSH}`
-    console.log(55555,BARK_PUSH);
   }
 }
 if (process.env.TG_BOT_TOKEN) {

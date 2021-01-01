@@ -46,7 +46,7 @@ let feedsNum = 0;//饲料数量
 let friendList = [];
 
 (async function main(){
-    for (let i=1;i<ckArr.length;i++){
+    for (let i=0;i<ckArr.length;i++){
         headers.Cookie = ckArr[i];
         login_string = login_string_Arr[i];
         console.log(`休息5s,执行第${i+1}个号`)

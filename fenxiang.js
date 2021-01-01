@@ -75,7 +75,7 @@ async function step() {
         await acquireWaters();
         await limitedTime();
 
-        console.log(parseInt(waterTotal/10))
+        // console.log(parseInt(waterTotal/10))
         for (let j = 1;j<parseInt(waterTotal/10);j++){
             if (!fruitRipe){
                 await getWaterId();
@@ -252,11 +252,11 @@ function helpInvite() {
     return new Promise(resolve => {
         try {
             let body = ''
-            if ($.time("HH") <=12 ){
+            if ($.time("HH") <=8 ){
                  body = JSON.stringify({"initiatorId": "498093563"});
             }
             // body = JSON.stringify({"initiatorId": "498093563"});
-            if ($.time("HH") >12 ) {
+            if ($.time("HH") >8 ) {
                  body = JSON.stringify({"initiatorId": "499563122"});
             }
             let opt = {

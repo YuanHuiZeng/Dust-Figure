@@ -28,7 +28,7 @@ if (process.env.TG_BOT_TOKEN) {
 if (process.env.TG_USER_ID) {
   TG_USER_ID = process.env.TG_USER_ID;
 }
-function sendNotify(text, desp) {
+/*function sendNotify(text, desp) {
   return  new Promise(resolve => {
     if (SCKEY) {
       const options = {
@@ -86,6 +86,36 @@ function sendNotify(text, desp) {
       })
     } else {
       console.log('您未提供server酱的SCKEY，取消微信推送消息通知');
+      resolve()
+    }
+  })
+}*/
+function sendNotify(text, desp) {
+  return new Promise(resolve => {
+    if (BARK_PUSH) {
+      const options = {
+        url: `${BARK_PUSH}/${encodeURIComponent(text)}/${encodeURIComponent(desp)}`,
+      }
+      $.get(options, (err, resp, data) => {
+        try {
+          if (err) {
+            console.log('发送Bark通知调用API失败！！')
+          } else {
+            data = JSON.parse(data);
+            if (data.code === 200) {
+              console.log('发送Bark通知消息成功')
+            } else {
+              console.log(data.message);
+            }
+          }
+        } catch (e) {
+          $.logErr(e, resp);
+        } finally {
+          resolve();
+        }
+      })
+    } else {
+      console.log('您未提供Bark的APP推送BARK_PUSH，取消Bark推送消息通知');
       resolve()
     }
   })

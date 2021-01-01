@@ -19,8 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0dcce546-4a91-4425-8d18-d41aeac3279e" name="Default Changelist" comment="修改粉象助力">
+    <list default="true" id="0dcce546-4a91-4425-8d18-d41aeac3279e" name="Default Changelist" comment="增加京东农场">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jd_fruit.js" beforeDir="false" afterPath="$PROJECT_DIR$/jd_fruit.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sendNotify.js" beforeDir="false" afterPath="$PROJECT_DIR$/sendNotify.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -90,7 +91,7 @@
       <workItem from="1609491148426" duration="1635000" />
       <workItem from="1609492805959" duration="5000" />
       <workItem from="1609492830504" duration="14000" />
-      <workItem from="1609492853243" duration="2900000" />
+      <workItem from="1609492853243" duration="4705000" />
     </task>
     <task id="LOCAL-00001" summary="启动AC">
       <created>1607944190201</created>
@@ -176,7 +177,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609494819368</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="增加京东农场">
+      <created>1609513770505</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1609513770505</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -205,7 +213,8 @@
     <MESSAGE value="修改通知" />
     <MESSAGE value="牛牛修改完成" />
     <MESSAGE value="修改粉象助力" />
-    <option name="LAST_COMMIT_MESSAGE" value="修改粉象助力" />
+    <MESSAGE value="增加京东农场" />
+    <option name="LAST_COMMIT_MESSAGE" value="增加京东农场" />
   </component>
   <component name="WindowStateProjectService">
     <state width="1899" height="390" key="GridCell.Tab.0.bottom" timestamp="1608190164162">

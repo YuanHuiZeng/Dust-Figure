@@ -3,7 +3,7 @@ let  needle = require('needle');
 const notify = $.isNode() ? require('./sendNotify') : '';
 let ckArr = []
 if (process.env.COW) {
-    ckArr = process.env.FENGCOOKIE.split('\n');
+    ckArr = process.env.COW.split('\n');
     console.log(ckArr);
     console.log(`您选择的是用换行隔开\n`)
 }
@@ -24,7 +24,7 @@ let url = 'https://bsp.babytree.com/game/manor/api/award';
 let taskListUrl = 'https://bsp.babytree.com/game/manor/api/taskList';
 let login_string_Arr = []
 if (process.env.COW_LOGIN_STRING) {
-    login_string_Arr = process.env.FENGCOOKIE.split('\n');
+    login_string_Arr = process.env.COW_LOGIN_STRING.split('\n');
 }
 let fidArr =[
     '1696073',  //娜娜大号

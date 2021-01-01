@@ -19,8 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0dcce546-4a91-4425-8d18-d41aeac3279e" name="Default Changelist" comment="增加通知">
-      <change beforePath="$PROJECT_DIR$/.github/workflows/fenxiang.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/fenxiang.yml" afterDir="false" />
+    <list default="true" id="0dcce546-4a91-4425-8d18-d41aeac3279e" name="Default Changelist" comment="增加牛牛">
+      <change beforePath="$PROJECT_DIR$/.github/workflows/cow.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/cow.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +42,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.github/workflows" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -53,15 +54,20 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Dust-Figure\.github\workflows" />
       <recent name="D:\Dust-Figure" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Node.js.cow.js">
+    <configuration name="cow.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/cow.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
     <configuration name="fenxiang.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/fenxiang.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.cow.js" />
         <item itemvalue="Node.js.fenxiang.js" />
       </list>
     </recent_temporary>
@@ -74,7 +80,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1607943224564</updated>
-      <workItem from="1607943225648" duration="3249000" />
+      <workItem from="1607943225648" duration="4435000" />
+      <workItem from="1607996523822" duration="7037000" />
+      <workItem from="1608082816926" duration="2932000" />
+      <workItem from="1609486524423" duration="614000" />
+      <workItem from="1609487875692" duration="602000" />
+      <workItem from="1609489712233" duration="8000" />
+      <workItem from="1609489736256" duration="649000" />
+      <workItem from="1609491148426" duration="1635000" />
+      <workItem from="1609492805959" duration="5000" />
+      <workItem from="1609492830504" duration="14000" />
+      <workItem from="1609492853243" duration="319000" />
     </task>
     <task id="LOCAL-00001" summary="启动AC">
       <created>1607944190201</created>
@@ -104,7 +120,28 @@
       <option name="project" value="LOCAL" />
       <updated>1607946148932</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="修改yml">
+      <created>1607946489972</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1607946489972</updated>
+    </task>
+    <task id="LOCAL-00006" summary="修改yml">
+      <created>1607946594009</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1607946594009</updated>
+    </task>
+    <task id="LOCAL-00007" summary="增加牛牛">
+      <created>1609492873045</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1609492873045</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,33 +157,41 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="启动AC" />
     <MESSAGE value="更新FENGCOOKIE" />
     <MESSAGE value="增加通知" />
-    <option name="LAST_COMMIT_MESSAGE" value="增加通知" />
+    <MESSAGE value="修改yml" />
+    <MESSAGE value="增加牛牛" />
+    <option name="LAST_COMMIT_MESSAGE" value="增加牛牛" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1899" height="285" key="GridCell.Tab.0.bottom" timestamp="1607944213543">
+    <state width="1899" height="390" key="GridCell.Tab.0.bottom" timestamp="1608190164162">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1899" height="285" key="GridCell.Tab.0.bottom/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1607944213543" />
-    <state width="1899" height="285" key="GridCell.Tab.0.center" timestamp="1607944213541">
+    <state width="1899" height="390" key="GridCell.Tab.0.bottom/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1608190164162" />
+    <state width="1899" height="390" key="GridCell.Tab.0.center" timestamp="1608190164162">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1899" height="285" key="GridCell.Tab.0.center/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1607944213541" />
-    <state width="1899" height="285" key="GridCell.Tab.0.left" timestamp="1607944213541">
+    <state width="1899" height="390" key="GridCell.Tab.0.center/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1608190164162" />
+    <state width="1899" height="390" key="GridCell.Tab.0.left" timestamp="1608190164162">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1899" height="285" key="GridCell.Tab.0.left/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1607944213541" />
-    <state width="1899" height="285" key="GridCell.Tab.0.right" timestamp="1607944213542">
+    <state width="1899" height="390" key="GridCell.Tab.0.left/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1608190164162" />
+    <state width="1899" height="390" key="GridCell.Tab.0.right" timestamp="1608190164162">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1899" height="285" key="GridCell.Tab.0.right/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1607944213542" />
-    <state x="552" y="257" key="Vcs.Push.Dialog.v2" timestamp="1607945370519">
+    <state width="1899" height="390" key="GridCell.Tab.0.right/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1608190164162" />
+    <state x="552" y="257" key="Vcs.Push.Dialog.v2" timestamp="1609492950722">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="552" y="257" key="Vcs.Push.Dialog.v2/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1607945370519" />
+    <state x="552" y="257" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1609492950722" />
+    <state x="763" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1609492943768">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="763" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1050@0.0.1920.1050" timestamp="1609492943768" />
   </component>
 </project>

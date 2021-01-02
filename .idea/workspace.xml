@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0dcce546-4a91-4425-8d18-d41aeac3279e" name="Default Changelist" comment="牛牛执行时间">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="0dcce546-4a91-4425-8d18-d41aeac3279e" name="Default Changelist" comment="京东汽车" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -90,7 +88,7 @@
       <workItem from="1609492805959" duration="5000" />
       <workItem from="1609492830504" duration="14000" />
       <workItem from="1609492853243" duration="6179000" />
-      <workItem from="1609561040553" duration="1649000" />
+      <workItem from="1609561040553" duration="1975000" />
     </task>
     <task id="LOCAL-00001" summary="启动AC">
       <created>1607944190201</created>
@@ -211,7 +209,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609561689449</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="京东汽车">
+      <created>1609563175801</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1609563175801</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -245,7 +250,8 @@
     <MESSAGE value="增加京东部分" />
     <MESSAGE value="取消自己喂养" />
     <MESSAGE value="牛牛执行时间" />
-    <option name="LAST_COMMIT_MESSAGE" value="牛牛执行时间" />
+    <MESSAGE value="京东汽车" />
+    <option name="LAST_COMMIT_MESSAGE" value="京东汽车" />
   </component>
   <component name="WindowStateProjectService">
     <state width="1899" height="390" key="GridCell.Tab.0.bottom" timestamp="1608190164162">

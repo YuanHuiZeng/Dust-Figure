@@ -5,7 +5,7 @@ name: 牛牛
 
 on:
   schedule:
-    - cron: '0 0/35 * * *'
+    - cron: '0/35 * * * *'
   watch:
     types: started
 

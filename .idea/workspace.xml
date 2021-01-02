@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0dcce546-4a91-4425-8d18-d41aeac3279e" name="Default Changelist" comment="增加京东部分" />
+    <list default="true" id="0dcce546-4a91-4425-8d18-d41aeac3279e" name="Default Changelist" comment="取消自己喂养" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -88,6 +88,7 @@
       <workItem from="1609492805959" duration="5000" />
       <workItem from="1609492830504" duration="14000" />
       <workItem from="1609492853243" duration="6179000" />
+      <workItem from="1609561040553" duration="552000" />
     </task>
     <task id="LOCAL-00001" summary="启动AC">
       <created>1607944190201</created>
@@ -194,7 +195,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609516606558</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="取消自己喂养">
+      <created>1609561328558</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1609561328558</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -226,7 +234,8 @@
     <MESSAGE value="增加京东农场" />
     <MESSAGE value="增加" />
     <MESSAGE value="增加京东部分" />
-    <option name="LAST_COMMIT_MESSAGE" value="增加京东部分" />
+    <MESSAGE value="取消自己喂养" />
+    <option name="LAST_COMMIT_MESSAGE" value="取消自己喂养" />
   </component>
   <component name="WindowStateProjectService">
     <state width="1899" height="390" key="GridCell.Tab.0.bottom" timestamp="1608190164162">

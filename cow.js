@@ -66,9 +66,9 @@ let friendList = [];
             await sleep(5);
             await taskAward();
         }
-         if (feedsNum >=20 && i === 0){
-             await toFeed()
-         }
+         // if (feedsNum >=20 && i === 0){
+         //     await toFeed()
+         // }
     }
 
 
